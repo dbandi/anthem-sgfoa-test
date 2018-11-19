@@ -1,0 +1,8 @@
+Org: student1902@ins.edu
+Version: 1.7.8
+PackageVersion: 890.103
+Namespace: vlocity_ins
+Job: 10_26_2018_Release.yaml
+Action: Export
+ProjectPath: ./Release_Backup/10_26_2018
+Errors: None
